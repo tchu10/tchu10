@@ -10,8 +10,8 @@ Senior SDET and QA automation architect with 10+ years in financial services: pa
 - Daily AI coding assistant: Cursor
 
 **Highlights**
-- Tested AI assistant: ingestion, semantic search quality, and entitlement checks so users only see data they're allowed to see.
-- Built a new Playwright and TypeScript framework B2B Accounts Receivables / Credit Trasactions.
+- Tested an AI assistant: ingestion, semantic search quality, and entitlement checks so users only see data they're allowed to see.
+- Built a new Playwright and TypeScript frameworks for B2B Accounts Receivables and Credit Transactions.
 - Tech lead on automation: framework ownership, code reviews, testing standards, and mentoring.
 
 Open to Senior SDET and automation architect roles.
